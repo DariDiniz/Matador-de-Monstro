@@ -35,3 +35,9 @@ htmml{
     font-weight: 300;
     font-size: 1.6rem;
 }
+
+.life-bar{
+    width: 80%;
+    height: 20px;
+    border: 1px solid #AAA;
+}
