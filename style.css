@@ -41,3 +41,10 @@ htmml{
     height: 20px;
     border: 1px solid #AAA;
 }
+
+.life-bar .life{
+    display: flex;
+    justify-content: center;
+    height: 100%;
+    background-color: green;
+}
