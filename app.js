@@ -1,5 +1,5 @@
 new Vue({
-    el:'#app',
+    el: '#app',
     data: {
         playerLife: 100,
         monsterLife: 100,
@@ -11,7 +11,7 @@ new Vue({
     methods: {
 
     },
-    watch:{
+    watch: {
 
     }
 })
