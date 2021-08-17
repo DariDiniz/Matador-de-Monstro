@@ -32,6 +32,9 @@ new Vue({
 
     },
     watch: {
+        hasResult(value){
+            if (value) this.running = false
+        }
 
     }
 })
